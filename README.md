@@ -1,4 +1,4 @@
-# VAlidação de formularios
+# Validação de formularios
 
 sistema simples para validar formularios o arquivo index fazar o envio dos dados
 o arquivo recebedor faz a verifixcação e mmostra uma tela com o resultado
